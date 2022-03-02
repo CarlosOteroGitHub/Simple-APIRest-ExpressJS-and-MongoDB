@@ -1,0 +1,9 @@
+========================================================== COMANDOS ==========================================================
+
+° npm init -y: Comando utilizado para inicializar un proyecto de MongoDB.
+
+° npm install mongoose: Comando utilizado para instalar la ultima versión de Mongoose.
+
+° npm install nodemon -g: Comando utilizado para instalar la última versión de Nodemon.
+
+° nodemon start: Comando utilizado para ejecutar el archivo de conexión a base de datos MongoDB.

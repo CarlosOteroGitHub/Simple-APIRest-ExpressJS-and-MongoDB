@@ -1,0 +1,23 @@
+========================================================== DEPENDENCIAS UTILIZADAS ==========================================================
+
+° Microsoft Windows 10.
+
+° Google Chrome.
+
+° SublimeText.
+
+° Javascript.
+
+° MongoDB.
+
+° NodeJS.
+
+° JSON.
+
+° NPM.
+
+° Nodemon.
+
+° Libreria Mongosse.
+
+° MongoDB Compass.
